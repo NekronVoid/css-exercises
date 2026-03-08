@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.marked{
+    background-color: #FF8888;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+
+}
+#blue_color{
+    color: #00f;
+    font-size: 36px;
+}
+.cooler{
+    font-size: 24px;
+}
+#green_bg{
+    background-color: #9f9;
+    font-size: 24px;
+    font-weight: bold;
+}
